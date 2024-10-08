@@ -1,4 +1,4 @@
-package LeetcodeBootcamp;
+package LeetcodeBootcamp.lecture1;
 
 public class lc75 {
     public void sortColors(int[] nums) {

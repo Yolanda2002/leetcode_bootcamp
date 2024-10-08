@@ -1,4 +1,4 @@
-package LeetcodeBootcamp;
+package LeetcodeBootcamp.lecture1;
 
 public class lc485 {
     public int findMaxConsecutiveOnes(int[] nums) {

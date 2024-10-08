@@ -1,4 +1,4 @@
-package LeetcodeBootcamp;
+package LeetcodeBootcamp.lecture1;
 
 import java.util.Arrays;
 
