@@ -6,7 +6,7 @@ NYU Tandon Leetcode Bootcamp 2024
 
 ## Description 
 
-This is Jia Yang. 
+This is **Jia Yang**. 
 
 **NetId:** jy5081 
 
